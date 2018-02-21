@@ -1,0 +1,44 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "city": "Tokyo",
+      "country": "JP"
+    },
+    {
+      "id": 2,
+      "city": "Seattle",
+      "country": "US"
+    },
+    {
+      "id": 3,
+      "city": "Colombo",
+      "country": "LK"
+    },
+    {
+      "id": 4,
+      "city": "San Francisco",
+      "country": "US"
+    },
+    {
+      "id": 5,
+      "city": "Tehran",
+      "country": "IR"
+    },
+    {
+      "id": 6,
+      "city": "Toronto",
+      "country": "CA"
+    },
+    {
+      "id": 7,
+      "city": "Sendai",
+      "country": "JP"
+    },
+    {
+      "id": 8,
+      "city": "Denver",
+      "country": "US"
+    }
+  ]
+}

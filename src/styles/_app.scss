@@ -1,0 +1,40 @@
+/*----------------------------------------
+APP
+------------------------------------------*/
+#app {
+  width: 100vw;
+  min-height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  transition: $base-transiton;
+
+  &.tokyo {
+    background-image: url('../images/tokyo.jpg');
+  }
+  &.sanfrancisco {
+    background-image: url('../images/sf.jpg');
+  }
+  &.tehran {
+    background-image: url('../images/tehran.jpg');
+  }
+  &.seattle {
+    background-image: url('../images/seattle.jpg');
+  }
+  &.colombo {
+    background-image: url('../images/colombo.jpg');
+  }
+  &.toronto {
+    background-image: url('../images/toronto.jpg');
+  }
+  &.denver {
+    background-image: url('../images/denver.jpg');
+  }
+  &.sendai {
+    background-image: url('../images/sendai.jpg');
+  }
+  &.fadeOut {
+    opacity: $base-opa;
+  }
+}
