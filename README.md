@@ -1,6 +1,6 @@
 # 🎨 Weather Palette
 **We all think about our friends - how they are doing once in a while, don't we?**
-Weather Palette is a weather information shown on a beautiful picture of my friends' hometown. Select their hometown and check out how the weather is like over there is pretty fun!😁
+Weather Palette is a weather information shown on a beautiful picture of my friends' hometown. Select their hometown and check out how the weather is like over there is pretty fun! 😁
 
 ![2018-02-04 20 07 38](https://user-images.githubusercontent.com/28984604/35776848-1bc67b72-09e7-11e8-988a-c4bc282ccd64.png)
 
@@ -19,7 +19,7 @@ yarn develop
 ```
 => You'll see weather information with a nice Tokyo theme on [http://localhost:8000](http://localhost:8000)! 🎉
 
-#### Demo is here👉 http://oafish-attention.surge.sh/
+#### Demo is here👉 http://clear-north.surge.sh/
 
 ### 💣 WARNING
 Do NOT see this app with your smartphone! It's PC site and not adjusted it for SP yet.
